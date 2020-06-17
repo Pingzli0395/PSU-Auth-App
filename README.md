@@ -12,6 +12,6 @@ npm start
 react-native run-android
 ```
 front-End Code </br>
-https://github.com/kengzas1253/PSU-Authentication/blob/master/PSU%20Athen%20server/server.js
+https://github.com/kengzas1253/PSU-Authentication/blob/master/PSU%20Athen%20server/server.js </br>
 react native splash screen </br>
 https://github.com/crazycodeboy/react-native-splash-screen
