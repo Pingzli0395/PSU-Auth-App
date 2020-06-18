@@ -61,12 +61,12 @@ export default function App() {
   const printStudents = ()=>{
     if(students !=''){
       return(
-      <Text>server is connect  {students.password}</Text>
+      <Text>connect to server  {students.password}</Text>
       )
     }
     else{
       return(
-        <Text>server is connot connect {students.name}</Text>
+        <Text>cannot connect to server {students.name}</Text>
       )
     }
 }
